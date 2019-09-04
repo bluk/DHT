@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Bencode",
+        "repositoryURL": "https://github.com/bluk/bencode.git",
+        "state": {
+          "branch": null,
+          "revision": "530252b2845d05e6c554f11c8c4efced1a4108b3",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "Cryptor",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueCryptor.git",
+        "state": {
+          "branch": null,
+          "revision": "6e83ae419817e7272f2f80a7a005a26df366dd8e",
+          "version": "1.0.31"
+        }
+      },
+      {
+        "package": "BTMetainfo",
+        "repositoryURL": "https://github.com/bluk/btmetainfo.git",
+        "state": {
+          "branch": null,
+          "revision": "fb79e92a2c2aff49c09edb629335ba3283b5964f",
+          "version": "0.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
